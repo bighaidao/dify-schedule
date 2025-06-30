@@ -1,4 +1,4 @@
-name: Auto
+name: auto_30min
 
 on:
   schedule:
